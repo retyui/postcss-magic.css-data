@@ -1,6 +1,6 @@
 {
   "name": "postcss-magic.css-data",
-  "version": "0.0.5",
+  "version": "0.1.0",
   "main": "index.json",
   "scripts": {
     "debug": "node --inspect --debug-brk parse.js",
