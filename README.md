@@ -35,9 +35,9 @@ const postcssAnimations = require("postcss-animations");
 
     console.log(css);
     /*
-      .my-openDownRightOut { animation-name: openDownRightOut; }
-      @keyframes openDownRightOut { }
-    */
+          .my-openDownRightOut { animation-name: openDownRightOut; }
+          @keyframes openDownRightOut { }
+        */
   } catch (e) {
     console.error(e);
   }

@@ -15,7 +15,6 @@
 	"devDependencies": {
 		"css-parse-keyframes": "^0.0.4",
 		"magic": "miniMAC/magic"
-
 	},
 	"keywords": ["css", "animation", "keyframes", "magic.css"],
 	"repository": "https://github.com/retyui/postcss-magic.css-data",
