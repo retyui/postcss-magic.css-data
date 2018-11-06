@@ -16,10 +16,18 @@
 		"css-parse-keyframes": "^0.0.4",
 		"magic": "miniMAC/magic"
 	},
-	"keywords": ["css", "animation", "keyframes", "magic.css"],
+	"keywords": [
+		"css",
+		"animation",
+		"keyframes",
+		"magic.css"
+	],
 	"repository": "https://github.com/retyui/postcss-magic.css-data",
 	"author": "David Narbutovich <vamnemne@gmail.com>",
 	"engines": {
 		"node": ">= 4.2"
+	},
+	"dependencies": {
+		"postcss": "^7.0.5"
 	}
 }
